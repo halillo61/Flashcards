@@ -1,3 +1,6 @@
+# README.md
+
+```markdown
 # 🎯 Flashcards
 
 A simple and effective flashcard app for learning and memorization, built with Flutter.
@@ -52,3 +55,27 @@ flutter build apk --release
 
 # Or install directly to device
 flutter install
+```
+## 🌍 Supported Languages
+
+- 🇺🇸 English
+- 🇹🇷 Turkish
+- 🇩🇪 German
+
+Want to add your language? Contributions welcome!
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🐛 Issues & Support
+
+Found a bug or have a suggestion? Please [open an issue](https://github.com/halillo61/flashcards/issues).
+
+## 📞 Contact
+
+- GitHub: [@halillo61](https://github.com/halillo61)
+
+---
+
+⭐ If you like this project, please give it a star!
