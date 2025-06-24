@@ -1,0 +1,29 @@
+Flashcards is a simple and effective learning tool that helps you memorize information through spaced repetition and active recall techniques.
+<b>Key Features:</b>
+
+Create unlimited custom flashcard sets
+Study with intuitive flip animations
+Multi-language support (English, Turkish, German)
+Import and export sets via JSON files
+Track your learning progress
+Clean and minimalist interface
+Works completely offline
+No ads or tracking
+
+<b>Perfect for:</b>
+
+Students preparing for exams
+Language learners building vocabulary
+Medical students memorizing terminology
+Anyone wanting to improve memory skills
+
+<b>How it works:</b>
+
+Create flashcard sets on any topic
+Add questions and answers
+Use study mode to practice
+Track your progress over time
+Share sets with friends via export feature
+
+The app uses proven learning techniques to help you retain information more effectively. With support for multiple languages and the ability to import/export sets, it's perfect for collaborative learning.
+No internet connection required - all your data stays on your device for privacy and offline access.

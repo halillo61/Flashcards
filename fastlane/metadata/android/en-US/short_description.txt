@@ -1,0 +1,1 @@
+Simple flashcard app for learning and memorization with multi-language support

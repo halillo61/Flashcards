@@ -1,0 +1,13 @@
+🎉 Initial Release - Flashcards v1.0.0
+✨ Features:
+
+Create custom flashcard sets
+Study mode with flip animations
+Multi-language support (EN/TR/DE)
+Import/Export sets via JSON
+Progress tracking
+Clean, intuitive interface
+Offline support
+
+📱 Perfect for students, language learners, and anyone wanting to boost their memory!
+🔒 Privacy-focused: No ads, no tracking, all data stays on your device.
