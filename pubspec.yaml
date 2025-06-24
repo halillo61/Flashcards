@@ -1,5 +1,5 @@
 name: flashcards
-description: "A simple flashcard app for learning and memorization."
+description: "A simple flashcard app for learning and memorization with multi-language support."
 publish_to: 'none' 
 
 version: 1.0.0+1
