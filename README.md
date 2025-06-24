@@ -1,11 +1,8 @@
-# README.md
-
-```markdown
 # 🎯 Flashcards
 
 A simple and effective flashcard app for learning and memorization, built with Flutter.
 
-## ✨ Features
+# ✨ Features
 
 - 📚 **Create Custom Sets** - Design your own flashcard collections
 - 🔄 **Smart Study Mode** - Flip animations and intuitive interface
@@ -15,18 +12,18 @@ A simple and effective flashcard app for learning and memorization, built with F
 - 📱 **Offline Ready** - Works without internet connection
 - 🎨 **Clean Design** - Minimalist and user-friendly interface
 
-## 📱 Installation
+# 📱 Installation
 
-### From GitHub Releases
+From GitHub Releases
 1. Go to [Releases](https://github.com/halillo61/flashcards/releases)
 2. Download the latest APK file
 3. Enable "Install from unknown sources" on your Android device
 4. Install the APK
 
-### From F-Droid
+From F-Droid
 Coming soon on F-Droid and IzzyOnAndroid repository.
 
-## 🚀 Getting Started
+# 🚀 Getting Started
 
 1. **Create a Set** - Tap the + button to create your first flashcard set
 2. **Add Cards** - Fill in questions and answers
@@ -34,14 +31,14 @@ Coming soon on F-Droid and IzzyOnAndroid repository.
 4. **Track Progress** - See your learning statistics
 5. **Share** - Export your sets to share with friends
 
-## 🛠️ Building from Source
+# 🛠️ Building from Source
 
-### Prerequisites
+Prerequisites
 - Flutter SDK (>=3.4.4)
 - Android Studio or VS Code
 - Android device or emulator
 
-### Build Steps
+Build Steps
 ```bash
 # Clone the repository
 git clone https://github.com/halillo61/flashcards.git
@@ -56,7 +53,7 @@ flutter build apk --release
 # Or install directly to device
 flutter install
 ```
-## 🌍 Supported Languages
+# 🌍 Supported Languages
 
 - 🇺🇸 English
 - 🇹🇷 Turkish
@@ -64,15 +61,15 @@ flutter install
 
 Want to add your language? Contributions welcome!
 
-## 📄 License
+# 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🐛 Issues & Support
+# 🐛 Issues & Support
 
 Found a bug or have a suggestion? Please [open an issue](https://github.com/halillo61/flashcards/issues).
 
-## 📞 Contact
+# 📞 Contact
 
 - GitHub: [@halillo61](https://github.com/halillo61)
 
